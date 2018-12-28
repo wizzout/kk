@@ -15,8 +15,8 @@
             "label": "Производительность (Q m3/ч)", 
             "name": "opt1", 
             "values": [
-              {"id": 0, "label": "1"}
-              {"id": 1, "label": "2"}
+              {"id": 0, "label": "1"},
+              {"id": 1, "label": "2"},
               {"id": 2, "label": "3"}
             ] 
           },
@@ -24,8 +24,8 @@
             "label": "Напор (H, m)", 
             "name": "opt2", 
             "values": [
-              {"id": 0, "label": "1"}
-              {"id": 1, "label": "2"}
+              {"id": 0, "label": "1"},
+              {"id": 1, "label": "2"},
               {"id": 2, "label": "3"}
             ] 
           }
@@ -42,8 +42,8 @@
             "label": "Диаметр (DN)",
             "name": "opt1",
             "values": [
-              {"id": 0, "label": "1"}
-              {"id": 1, "label": "2"}
+              {"id": 0, "label": "1"},
+              {"id": 1, "label": "2"},
               {"id": 2, "label": "3"}
             ] 
           },
@@ -51,8 +51,8 @@
             "label": "Давление (PN)",
             "name": "opt2",
             "values": [
-              {"id": 0, "label": "1"}
-              {"id": 1, "label": "2"}
+              {"id": 0, "label": "1"},
+              {"id": 1, "label": "2"},
               {"id": 2, "label": "3"}
             ] 
           }
