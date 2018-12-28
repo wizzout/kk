@@ -35,7 +35,7 @@
   ],
   "products": [
     {
-      "id": 0,
+      "id": "nasos",
       "label" : "Тип продукции",
       "products": [
         {
