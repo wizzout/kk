@@ -3,7 +3,19 @@
     {
       "id": 0,
       "label": "",
-      "productsId": 0 
+      "productsId": 0 ,
+      "more" : {
+        "maxPrice" : 1000,
+        "options": [
+          {
+            "label": "", 
+            "name": "", 
+            "values": [
+
+            ] 
+          }
+        ]
+      }
     },
     {
       "id": 1,
@@ -23,6 +35,7 @@
   ],
   "products": [
     {
+      "id": 0,
       "label" : "Тип продукции",
       "products": [
         {
@@ -52,6 +65,7 @@
       ]
     } ,
     {
+      "id": 1,
       "label": "Тип продукции",
       "products": [
       {
@@ -93,6 +107,7 @@
     ]
     } ,
     {
+      "id": 2,
       "label" : "Тип продукции",
       "products": [
         {
@@ -110,6 +125,7 @@
       ]
     } ,
     {
+      "id": 3,
       "label" : "Тип производства",
       "products": [
         {
