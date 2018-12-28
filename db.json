@@ -5,8 +5,17 @@
       "label": "Насосное обородувание",
       "productsId": 0 ,
       "more" : {
-        "maxPrice" : 1000,
+        "price" : {
+          "value" : 100000 
+        },
         "options": [
+          {
+            "label": "", 
+            "name": "", 
+            "values": [
+
+            ] 
+          },
           {
             "label": "", 
             "name": "", 
@@ -20,7 +29,21 @@
     {
       "id": 1,
       "label": "Турбопроводная арматура",
-      "productsId": 1 
+      "productsId": 1 ,
+      "more": {
+        "options": [
+          {
+            "label": "",
+            "name": "",
+            "values": []
+          },
+          {
+            "label": "",
+            "name": "",
+            "values": []
+          }
+        ]
+      }
     },
     {
       "id": 2,
@@ -34,7 +57,7 @@
     },
     {
       "id": 4,
-      "label": "Нестандартное оборудование"
+      "label": "Услуги"
     }
   ],
   "products": [
