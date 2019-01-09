@@ -12,7 +12,8 @@
         },
         "options": [
           {
-            "label": "Производительность (Q m3/ч)", 
+            "label": "Производительность", 
+            "units": "Q m3/ч",
             "name": "opt1", 
             "values": [
               {"id": 0, "label": "1"},
@@ -21,7 +22,8 @@
             ] 
           },
           {
-            "label": "Напор (H, m)", 
+            "label": "Напор", 
+            "units": "H, m",
             "name": "opt2", 
             "values": [
               {"id": 0, "label": "1"},
@@ -39,7 +41,8 @@
       "more": {
         "options": [
           {
-            "label": "Диаметр (DN)",
+            "label": "Диаметр",
+            "units": "DN",
             "name": "opt1",
             "values": [
               {"id": 0, "label": "1"},
@@ -48,7 +51,8 @@
             ] 
           },
           {
-            "label": "Давление (PN)",
+            "label": "Давление",
+            "units": "PN",
             "name": "opt2",
             "values": [
               {"id": 0, "label": "1"},
